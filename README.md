@@ -1,1 +1,1 @@
-"# Mastermind-MP" 
+Please read the comment first from line 1-10. :P
