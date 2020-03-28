@@ -1,6 +1,7 @@
 # Mastermind MP
-This Machine Project is the **digital version** of the game Mastermind with C.  
-Features: 
+This Machine Project is the **digital version** of the game Mastermind with C.
+
+**Features:** 
 - Sound Effects
 - Colors
 - Loading and Exit Screen
